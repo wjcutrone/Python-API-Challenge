@@ -1,4 +1,4 @@
-# Python-API-Challenge
+# Weather & Vacation Analysis
 Utilization of python API's to look at weather data
   This repository contains two notebooks. The first notebook utilizes information from OpenWeather to track changes in weather based on location in the world. 627 cities were randomly selected throughout the world. For each city, the max temperature, the humidity levels, the cloudiness levels, and wind speeds were recorded. The values recoreded also reflected how the weather in that particulary city would look like on January 21st, which is the day on which the API was used to get the weather information for all cities. After getting the data from all the cities from OpenWeather, the next objective was to find relationships between latitude, max temperature, humidity, cloudiness, and windspeed in order to visualize how weather changed based on location. Below are pictures of each of the four plots.
 
