@@ -18,6 +18,6 @@ Utilization of python API's to look at weather data
   ![hotels.png](Vacation_Py/output_data/hotels.png)
 
 
-  And finally, below is a world map showing the locations of each of the cities that met the parameters for ideal weather, included with the closest hotel, along with a heatmap layer that will show the most humid areas on earth at the given date.
+  And finally, below is a world map showing the location of each of the cities that met the parameters for ideal weather, included with the closest hotel, along with a heatmap layer that will show the most humid areas on earth at the given date.
 
   ![Hotels_Humidity.png](Vacation_Py/Maps/Hotels_Humidity.png)
